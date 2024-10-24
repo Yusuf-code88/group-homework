@@ -14,3 +14,1212 @@ body {
   font-weight: 100;
   font-style: normal;
 }
+
+.best_sellers_of_shop {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+
+    h1 {
+        font-size: 30px;
+        color: #000000;
+    }
+
+}
+
+
+
+.imgs_with_picture {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+
+    .about_things_wihich_is_sell {
+        width: 294px;
+        height: 488px;
+
+        .est_with_others {
+            width: 252px;
+            height: 229.46px;
+            margin-left: 23px;
+            margin-top: 8px;
+        }
+
+        h2 {
+            font-size: 14px;
+            color: #000000;
+            margin-top: 15px;
+            margin-left: 70px;
+        }
+
+        .by_used_for_p {
+            font-size: 13px;
+            color: #898989;
+            margin-left: 42%;
+            margin-top: 5px;
+
+            .ipsa_of_by {
+                border-bottom: 1px solid #898989;
+            }
+        }
+
+        .clay_of_liming {
+            font-size: 13px;
+            color: #000000;
+            margin-left: 36%;
+            margin-top: 15px;
+        }
+
+        button {
+            width: 252px;
+            height: 40px;
+            margin-top: 30px;
+            margin-left: 7%;
+            border: none;
+            border: 1px solid #C4C4C4;
+            background-color: #FFFFFF;
+
+            a {
+                font-size: 14px;
+                color: #000000;
+                text-decoration: none;
+            }
+        }
+
+        .from_to {
+            margin-left: 38%;
+            font-size: 13px;
+            color: #898989;
+            margin-top: 15px;
+
+            .price {
+                font-size: 14px;
+                color: #000000;
+                padding-left: 7px;
+            }
+        }
+        
+
+        .woman_with_heart {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            .heart_of_women {
+                width: 19px;
+                height: 16px;
+                margin-right: 20px;
+            }
+
+            .for_women {
+                width: 54px;
+                height: 20px;
+                background-color: #774C7D;
+                margin-left: 22px;
+
+                h5 {
+                    font-size: 10px;
+                    color: #FFFFFF;
+                    margin-left: 10px;
+                    margin-top: 3.5px;
+                }
+            }
+        }
+    }
+
+    .turn_to_the_left {
+        
+        button {
+            width: 34px;
+            height: 95px;
+            background-color: #F5F6F6;
+            border: none;
+
+            img {
+                width: 5.17px;
+                height: 9.33px;
+            }
+        }
+    }
+}
+
+.second_about_things_wihich_is_sell {
+    width: 294px;
+    height: 488px;
+
+    .est_with_others {
+        width: 252px;
+        height: 229.46px;
+        margin-left: 23px;
+        margin-top: 8px;
+    }
+
+    h2 {
+        font-size: 14px;
+        color: #000000;
+        margin-top: 15px;
+        margin-left: 36%;
+    }
+
+    .by_used_for_p {
+        font-size: 13px;
+        color: #898989;
+        margin-left: 42%;
+        margin-top: 5px;
+
+        .ipsa_of_by {
+            border-bottom: 1px solid #898989;
+        }
+    }
+
+    .clay_of_liming {
+        font-size: 13px;
+        color: #000000;
+        margin-left: 37%;
+        margin-top: 15px;
+    }
+
+    button {
+        width: 252px;
+        height: 40px;
+        margin-top: 30px;
+        margin-left: 7%;
+        border: none;
+        border: 1px solid #C4C4C4;
+        background-color: #FFFFFF;
+
+        a {
+            font-size: 14px;
+            color: #000000;
+            text-decoration: none;
+        }
+    }
+
+    .from_to {
+        margin-left: 38%;
+        font-size: 13px;
+        color: #898989;
+        margin-top: 15px;
+
+        .price {
+            font-size: 14px;
+            color: #000000;
+            padding-left: 7px;
+        }
+
+        
+    }
+
+    .woman_with_heart {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .heart_of_women {
+            width: 19px;
+            height: 16px;
+            margin-right: 20px;
+        }
+
+        .for_women {
+            width: 54px;
+            height: 20px;
+            background-color: #774C7D;
+            margin-left: 22px;
+
+            h5 {
+                font-size: 10px;
+                color: #FFFFFF;
+                margin-left: 10px;
+                margin-top: 3.5px;
+            }
+        }
+    }
+}
+
+.third_about_things_wihich_is_sell {
+    width: 294px;
+    height: 488px;
+
+    .est_with_others {
+        width: 252px;
+        height: 229.46px;
+        margin-left: 23px;
+        margin-top: 8px;
+    }
+
+    h2 {
+        font-size: 14px;
+        color: #000000;
+        margin-top: 15px;
+        margin-left: 36%;
+    }
+
+    .by_used_for_p {
+        font-size: 13px;
+        color: #898989;
+        margin-left: 42%;
+        margin-top: 5px;
+
+        .ipsa_of_by {
+            border-bottom: 1px solid #898989;
+        }
+    }
+
+    .clay_of_liming {
+        font-size: 13px;
+        color: #000000;
+        margin-left: 37%;
+        margin-top: 15px;
+    }
+
+    button {
+        width: 252px;
+        height: 40px;
+        margin-top: 30px;
+        margin-left: 7%;
+        border: none;
+        border: 1px solid #C4C4C4;
+        background-color: #FFFFFF;
+
+        a {
+            font-size: 14px;
+            color: #000000;
+            text-decoration: none;
+        }
+    }
+
+    .from_to {
+        margin-left: 38%;
+        font-size: 13px;
+        color: #898989;
+        margin-top: 15px;
+
+        .price {
+            font-size: 14px;
+            color: #000000;
+            padding-left: 7px;
+        }
+    }
+
+    .woman_with_heart {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .heart_of_women {
+            width: 19px;
+            height: 16px;
+            margin-right: 20px;
+        }
+
+        .for_women {
+            width: 54px;
+            height: 20px;
+            background-color: #774C7D;
+            margin-left: 22px;
+
+            h5 {
+                font-size: 10px;
+                color: #FFFFFF;
+                margin-left: 10px;
+                margin-top: 3.5px;
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 775px) {
+    .container {
+        width: 770px;
+        margin: 0 auto;
+    }
+
+    body {
+        font-family: "Roboto", sans-serif;
+      font-weight: 100;
+      font-style: normal;
+    }
+
+    .best_sellers_of_shop {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 100px;
+    
+        h1 {
+            font-size: 25px;
+            color: #000000;
+        }
+    
+    }
+
+    .imgs_with_picture {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 50px;
+    
+        .about_things_wihich_is_sell {
+            width: 282px;
+            height: 418px;
+    
+            .est_with_others {
+                width: 232px;
+                height: 209.46px;
+                margin-left: 13px;
+                margin-top: 5px;
+            }
+    
+            h2 {
+                font-size: 12px;
+                color: #000000;
+                margin-top: 10px;
+                margin-left: 60px;
+            }
+    
+            .by_used_for_p {
+                font-size: 11px;
+                color: #898989;
+                margin-left: 42%;
+                margin-top: 4px;
+    
+                .ipsa_of_by {
+                    border-bottom: 1px solid #898989;
+                }
+            }
+    
+            .clay_of_liming {
+                font-size: 11px;
+                color: #000000;
+                margin-left: 36%;
+                margin-top: 10px;
+            }
+    
+            button {
+                width: 232px;
+                height: 30px;
+                margin-top: 25px;
+                margin-left: 2%;
+                border: none;
+                border: 1px solid #C4C4C4;
+                background-color: #FFFFFF;
+    
+                a {
+                    font-size: 12px;
+                    color: #000000;
+                    text-decoration: none;
+                }
+            }
+    
+            .from_to {
+                margin-left: 38%;
+                font-size: 13px;
+                color: #898989;
+                margin-top: 15px;
+    
+                .price {
+                    font-size: 14px;
+                    color: #000000;
+                    padding-left: 7px;
+                }
+            }
+            
+    
+            .woman_with_heart {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+    
+                .heart_of_women {
+                    width: 16px;
+                    height: 13px;
+                    margin-right: 20px;
+                }
+    
+                .for_women {
+                    width: 54px;
+                    height: 20px;
+                    background-color: #774C7D;
+                    margin-left: 22px;
+    
+                    h5 {
+                        font-size: 9px;
+                        color: #FFFFFF;
+                        margin-left: 13px;
+                        margin-top: 3px;
+                    }
+                }
+            }
+        }
+    }
+
+    .second_about_things_wihich_is_sell {
+        width: 282px;
+        height: 418px;
+    
+        .est_with_others {
+            width: 232px;
+            height: 209.46px;
+            margin-left: 13px;
+            margin-top: 5px;
+        }
+    
+        h2 {
+            font-size: 12px;
+            color: #000000;
+            margin-top: 10px;
+            margin-left: 36%;
+        }
+    
+        .by_used_for_p {
+            font-size: 11px;
+            color: #898989;
+            margin-left: 42%;
+            margin-top: 5px;
+    
+            .ipsa_of_by {
+                border-bottom: 1px solid #898989;
+            }
+        }
+    
+        .clay_of_liming {
+            font-size: 11px;
+            color: #000000;
+            margin-left: 37%;
+            margin-top: 10px;
+        }
+    
+        button {
+            width: 232px;
+            height: 30px;
+            margin-top: 25px;
+            margin-left: 2%;
+            border: none;
+            border: 1px solid #C4C4C4;
+            background-color: #FFFFFF;
+    
+            a {
+                font-size: 14px;
+                color: #000000;
+                text-decoration: none;
+            }
+        }
+    
+        .from_to {
+            margin-left: 38%;
+            font-size: 11px;
+            color: #898989;
+            margin-top: 15px;
+    
+            .price {
+                font-size: 12px;
+                color: #000000;
+                padding-left: 5px;
+            }
+    
+            
+        }
+    
+        .woman_with_heart {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            .heart_of_women {
+                width: 16px;
+                height: 13px;
+                margin-right: 20px;
+            }
+    
+            .for_women {
+                width: 54px;
+                height: 20px;
+                background-color: #774C7D;
+                margin-left: 22px;
+    
+                h5 {
+                    font-size: 9px;
+                    color: #FFFFFF;
+                    margin-left: 13px;
+                    margin-top: 3px;
+                }
+            }
+        }
+    }
+    
+    .third_about_things_wihich_is_sell {
+        width: 282px;
+        height: 418px;
+    
+        .est_with_others {
+            width: 232px;
+            height: 209.46px;
+            margin-left: 13px;
+            margin-top: 5px;
+        }
+    
+        h2 {
+            font-size: 12px;
+            color: #000000;
+            margin-top: 10px;
+            margin-left: 36%;
+        }
+    
+        .by_used_for_p {
+            font-size: 11px;
+            color: #898989;
+            margin-left: 42%;
+            margin-top: 5px;
+    
+            .ipsa_of_by {
+                border-bottom: 1px solid #898989;
+            }
+        }
+    
+        .clay_of_liming {
+            font-size: 11px;
+            color: #000000;
+            margin-left: 37%;
+            margin-top: 10px;
+        }
+    
+        button {
+            width: 232px;
+            height: 30px;
+            margin-top: 25px;
+            margin-left: 2%;
+            border: none;
+            border: 1px solid #C4C4C4;
+            background-color: #FFFFFF;
+    
+            a {
+                font-size: 14px;
+                color: #000000;
+                text-decoration: none;
+            }
+        }
+    
+        .from_to {
+            margin-left: 38%;
+            font-size: 11px;
+            color: #898989;
+            margin-top: 15px;
+    
+            .price {
+                font-size: 12px;
+                color: #000000;
+                padding-left: 7px;
+            }
+        }
+    
+        .woman_with_heart {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+    
+            .heart_of_women {
+                width: 16px;
+                height: 13px;
+                margin-right: 20px;
+            }
+    
+            .for_women {
+                width: 54px;
+                height: 20px;
+                background-color: #774C7D;
+                margin-left: 22px;
+    
+                h5 {
+                    font-size: 10px;
+                    color: #FFFFFF;
+                    margin-left: 13px;
+                    margin-top: 3px;
+                }
+            }
+        }
+    }
+}
+
+.logo_components {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #4D2952;
+    margin-top: 100px;
+    height: 45px;
+
+    .logo_with_words {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+
+        h5 {
+            font-size: 13px;
+            color: #F5F6F6;
+        }
+
+        img {
+            width: 20px;
+            height: 20px;
+        }
+    }
+}
+
+.the_foot {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F5F6F6;
+    padding-top: 50px;
+
+    .sign_up_with_information {
+        margin-right: 300px;
+
+        h1 {
+            font-size: 16px;
+            color: #000000;
+        }
+
+        input {
+            width: 236px;
+            height: 38px;
+            border: none;
+            border-bottom: 2px solid #000000;
+            margin-top: 20px;
+            padding-left: 15px;
+        }
+        
+        button {
+            width: 141px;
+            height: 37px;
+            border: none;
+            border: 2px solid #383838;
+            color: #000000;
+            font-size: 14px;
+            margin-left: 15px;
+        }
+
+        .information_about_yourself {
+            width: 236px;
+            height: 38px;
+            border: none;
+            border-bottom: 2px solid #000000;
+            margin-top: 20px;
+            padding-left: 15px;
+            margin-left: 15px;
+        }
+
+        p {
+         font-size: 13px;
+         color: #000000;   
+         margin-top: 25px;
+        }
+    }
+
+    .questions_about_us {
+        margin-right: 100px;
+
+        h1 {
+            font-size: 16px;
+            color: #000000;
+        }
+
+        ul {
+            list-style: none;
+            margin-top: 15px;
+
+            a {
+                text-decoration: none;
+                font-size: 14px;
+                color: #383838;
+            }
+        }
+
+        h2 {
+            font-size: 16px;
+            color: #000000;
+            margin-top: 25px;
+        }
+
+        p {
+            font-size: 15px;
+            color: #383838;
+            margin-top: 8px;
+        }
+    }
+}
+
+.site_ended {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    background-color: #FFFFFF;
+
+    .about_department {
+
+        h1 {
+            font-size: 16px;
+            color: #000000;
+        }
+
+        .all_things_which_used_women {
+            display: flex;
+            justify-content: center;
+            margin-top: 25px;
+
+            p {
+                font-size: 14px;
+                color: #383838;
+                margin-top: 12px;
+            }
+
+            .sellers {
+                margin-left: 45px;
+            }
+        }
+    }
+    
+    .about_customer {
+
+        h1 {
+            font-size: 16px;
+            color: #000000; 
+        }
+
+        .another_things {
+            display: flex;
+            justify-content: center;
+            margin-top: 25px;
+
+            p {
+                font-size: 14px;
+                color: #383838;
+                margin-top: 12px;
+            }
+
+            .sellers {
+                margin-left: 45px;
+            }
+        }
+    }
+
+    .about_account {
+
+        h1 {
+            font-size: 16px;
+            color: #000000;
+        }
+
+        .account_yourself {
+            margin-top: 25px;
+
+            p {
+                font-size: 14px;
+                color: #383838;
+                margin-top: 12px;
+            }
+        }
+    }
+
+    .pictures_about_websites {
+
+        .club_of_luxury {
+            display: flex;
+            align-items: center;
+            margin-top: 25px;
+            width: 251px;
+            height: 52px;
+            background-color: #FFFFFF;
+            border: 2px solid #E5E5E5;
+
+            img {
+                width: 55.58px;
+                height: 34px;
+                margin-left: 15px;
+            }
+
+            p {
+                font-size: 14px;
+                color: #000000;
+                margin-left: 20px;
+            }
+        }
+
+        .country {
+            display: flex;
+            align-items: center;
+            margin-top: 8%;
+
+            img {
+                width: 33px;
+                height: 24px;
+            }
+
+            p {
+                margin-left: 10px;
+                font-size: 13px;
+                color: #000000;
+                border-bottom: 1px solid #000000;
+            }
+        }
+        
+        .all_apps {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+
+            img {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
+}
+
+.end_of_footer {
+    background-color: #000000;
+
+    .cards_for-paying {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 40px;
+        margin-top: 20px;
+        padding-bottom: 30px;
+
+        img {
+            width: 39px;
+            height: 26px;
+        }
+    }
+
+    .words_for_shop {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+        p {
+            font-size: 13px;
+            color: #E5E5E5;
+            margin-top: 30px;
+        }
+    }
+
+    .code_of_customers {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 20px;
+        gap: 50px;
+
+        p {
+            font-size: 14px;
+            color: #FFFFFF;
+        }
+    }
+}
+
+@media only screen and (max-width: 775px) {
+    footer {
+        width: 770px;
+    }
+
+    .logo_components {
+        display: flex;
+        align-items: center;
+        background-color: #4D2952;
+        margin-top: 100px;
+        gap: 0 70px;
+        height: 45px;
+        width: 768px;
+        flex-wrap: wrap;
+    
+        .logo_with_words {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+    
+            h5 {
+                font-size: 12px;
+                color: #F5F6F6;
+            }
+    
+            img {
+                width: 16px;
+                height: 16px;
+            }
+        }
+    }
+
+    .the_foot {
+        display: flex;
+        align-items: center;
+        width: 768px;
+        flex-wrap: wrap;
+        background-color: #F5F6F6;
+        padding-top: 50px;
+    
+        .sign_up_with_information {
+            margin-left: 60px;
+    
+            h1 {
+                font-size: 15px;
+                color: #000000;
+            }
+
+            form {
+                display: flex;
+                align-items: center;
+                gap: 0 20px;
+
+                input {
+                    width: 216px;
+                    height: 30px;
+                    border: none;
+                    border-bottom: 2px solid #000000;
+                    margin-top: 20px;
+                    padding-left: 15px;
+                }
+            }
+
+            button {
+                width: 121px;
+                height: 29px;
+                border: none;
+                border: 2px solid #383838;
+                color: #000000;
+                font-size: 12px;
+                margin-left: 14px;
+            }
+    
+            .information_about_yourself {
+                width: 216px;
+                height: 30px;
+                border: none;
+                border-bottom: 2px solid #000000;
+                margin-top: 20px;
+                padding-left: 15px;
+                margin-left: 15px;
+            }
+    
+            p {
+             font-size: 12px;
+             color: #000000;   
+             margin-top: 25px;
+            }
+        }
+    
+        .questions_about_us {
+    
+            h1 {
+                font-size: 15px;
+                color: #000000;
+            }
+    
+            ul {
+                list-style: none;
+                margin-top: 15px;
+    
+                a {
+                    text-decoration: none;
+                    font-size: 12px;
+                    color: #383838;
+                }
+            }
+    
+            h2 {
+                font-size: 15px;
+                color: #000000;
+                margin-top: 25px;
+            }
+    
+            p {
+                font-size: 14px;
+                color: #383838;
+                margin-top: 8px;
+            }
+        }
+    }
+
+    .site_ended {
+        display: flex;
+        justify-content: space-around;
+        padding-top: 50px;
+        flex-wrap: wrap;
+        width: 768px;
+        background-color: #FFFFFF;
+    
+        .about_department {
+    
+            h1 {
+                font-size: 15px;
+                color: #000000;
+            }
+    
+            .all_things_which_used_women {
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+    
+                p {
+                    font-size: 12px;
+                    color: #383838;
+                    margin-top: 10px;
+                }
+    
+                .sellers {
+                    margin-left: 35px;
+                }
+            }
+        }
+        
+        .about_customer {
+    
+            h1 {
+                font-size: 15px;
+                color: #000000; 
+            }
+    
+            .another_things {
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+    
+                p {
+                    font-size: 12px;
+                    color: #383838;
+                    margin-top: 10px;
+                }
+    
+                .sellers {
+                    margin-left: 35px;
+                }
+            }
+        }
+    
+        .about_account {
+    
+            h1 {
+                font-size: 15px;
+                color: #000000;
+            }
+    
+            .account_yourself {
+                margin-top: 20px;
+    
+                p {
+                    font-size: 12px;
+                    color: #383838;
+                    margin-top: 10px;
+                }
+            }
+        }
+    
+        .pictures_about_websites {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 25px;
+            
+            .club_of_luxury {
+                display: flex;
+                align-items: center;
+                margin-top: 25px;
+                width: 221px;
+                height: 46px;
+                background-color: #FFFFFF;
+                border: 2px solid #E5E5E5;
+    
+                img {
+                    width: 40.58px;
+                    height: 25px;
+                    margin-left: 15px;
+                }
+    
+                p {
+                    font-size: 13px;
+                    color: #000000;
+                    margin-left: 20px;
+                }
+            }
+    
+            .country {
+                display: flex;
+                align-items: center;
+                margin-top: 8%;
+    
+                img {
+                    width: 28px;
+                    height: 20px;
+                }
+    
+                p {
+                    margin-left: 10px;
+                    font-size: 12px;
+                    color: #000000;
+                    border-bottom: 1px solid #000000;
+                }
+            }
+            
+            .all_apps {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 50px;
+    
+                img {
+                    width: 35px;
+                    height: 35px;
+                }
+            }
+        }
+    }
+
+    .end_of_footer {
+        background-color: #000000;
+    
+        .cards_for-paying {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 20px;
+            padding-bottom: 30px;
+    
+            img {
+                width: 36px;
+                height: 23px;
+            }
+        }
+    
+        .words_for_shop {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            p {
+                font-size: 11px;
+                color: #E5E5E5;
+            }
+        }
+    
+        .code_of_customers {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 15px;
+            gap: 30px;
+    
+            p {
+                font-size: 12px;
+                color: #FFFFFF;
+            }
+        }
+    }
+}
